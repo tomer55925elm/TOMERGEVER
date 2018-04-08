@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rb2" type="id" />
+    <item name="rb3" type="id" />
+    <item name="LL" type="id" />
+    <item name="rg" type="id" />
+    <item name="rb1" type="id" />
+    <item name="btn1" type="id" />
+    <item name="btn2" type="id" />
+</resources>
